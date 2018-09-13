@@ -1,5 +1,5 @@
 # to-do-list-app 
-link for project  http://pr.todolistapp/.
+link for project  http://pr.todolistappp/.
 To do list for week
 It includes all days of week mon-sun and Repository
 
